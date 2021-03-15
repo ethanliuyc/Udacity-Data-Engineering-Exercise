@@ -32,4 +32,7 @@ Exercise 1: 3NF to Star Schema
 
 Exercise 2: OLAP Cubes Operations: Slicing, Dicing, Roll up, Drill Down and Grouping Sets
 
+#### 2.2 Introduction to Data Warehouse on AWS
+
+Exercise 1: Optimizing Redshift Table Design
 
