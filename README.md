@@ -36,3 +36,10 @@ Exercise 2: OLAP Cubes Operations: Slicing, Dicing, Roll up, Drill Down and Grou
 
 Exercise 1: Optimizing Redshift Table Design
 
+
+
+## 3. Data Lakes with Spark
+
+#### 2.2 Data Wrangling with Spark
+
+Exercise 1: Data Wrangling with Spark DataFrames
